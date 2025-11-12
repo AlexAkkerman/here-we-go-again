@@ -1,0 +1,165 @@
+body {
+    background-color: #dfdfdf;
+    margin: 0;
+}
+
+.banner-one {
+   
+    margin: 5rem 0rem;
+    padding: 1rem 7.5rem;
+    width: 100vw;
+    height: auto;
+    background-color: #0B2239;
+}
+
+.text-banner-one {
+    display: inline-block;
+    width: 75%;
+    color: white;
+    font-size: 1rem;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: 1.25rem;
+}
+
+.cookies-banner-one {
+    width: auto;
+    display: inline-block;
+    align-items: center;
+}
+
+.cookies-banner-one a {
+    padding: 0.5rem 0.625rem;
+    color:#4AD295;
+    font-family: Inter;
+    font-size: 0.75rem;
+    font-weight: 600;
+
+}
+
+.cookies-banner-one button {
+    padding: 0.5rem 0.625rem;
+    color:white;
+    font-family: Inter;
+    font-weight: 600;
+    background-color: #4AD295;
+    border-radius: 2px;
+    border-style: none;
+}
+
+.btn-banner-one:hover {
+    background-color: #35966a;
+}
+
+/* FIRST BANNER */
+
+/* SECOND BANNER */
+
+
+.second-banner {
+    width: 100vw;
+    height: auto;
+    background-color: #2B2627;
+
+}
+
+.second-banner-card {
+   width:800px;
+   padding:1rem 0rem;
+   margin: 0 auto;
+   align-items: center;
+}
+
+.second-banner-card p {
+     display: inline-block;
+     color: white;
+     font-family: Inter;
+     font-weight: 400;
+     font-size: 0.85rem;
+     margin:0.5rem;
+}
+
+.second-banner-card img {
+    width: 1rem;
+    height: 1rem;
+    margin: auto 0rem;
+    vertical-align: middle;
+    cursor: pointer;
+
+}
+
+.underline {
+    text-decoration: underline;
+    text-underline-offset: 3px;
+}
+
+/* SECOND BANNER */
+
+/* THIRD BANNER */
+
+.third-banner {
+   max-width: 40rem;
+    height: 4rem;
+    margin:8rem auto;
+    background-color: white;
+    border-radius: 15px;
+    padding: 1rem 0.6rem;
+    
+     
+}
+
+.third-banner-info {
+   text-align:center;
+   margin-top:0.8rem;
+}
+
+.third-banner-icon {
+    float: left;
+    width: 1.25rem;
+    height: 1.25rem;
+    padding:0.5rem;
+    margin: 0rem 0rem 0rem 1.5rem;
+    background-color: #EA4C891A;
+    border-radius: 15px;
+}
+
+.third-banner-text {
+    display: inline-block;
+    vertical-align:middle;
+    width: 65%;
+    font-family: Inter;
+    font-weight: 400;
+    font-size: 0,875rem;
+    line-height: 1.25rem;
+  
+}
+
+.cookies-link {
+    color: pink;
+    text-decoration: none;
+}
+
+.cookies-link:hover {
+color:rgb(158, 119, 126);
+}
+
+.cookie-buttons {
+    display: inline-block;
+    
+}
+.cookie-buttons button {
+font-family: Inter;
+    font-weight: 500;
+    font-size: 0.75rem;
+    border: none;
+    border-radius: 10px;
+    padding:0.5rem 0.625rem;
+    cursor: pointer;
+}
+
+.cookie-buttons button + button {
+    color: white;
+    background-color: #EA4C89;
+    margin-left: 0.625rem;
+
+}
